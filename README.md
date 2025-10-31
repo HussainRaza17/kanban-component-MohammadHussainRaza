@@ -2,10 +2,8 @@
 
 A production-ready, accessible, and responsive Kanban board component built with React, TypeScript, and Tailwind CSS.
 
-## 🚀 Live Storybook
-[Your deployed Storybook URL will be here]
 
-## 📦 Installation
+## Installation
 
 ```bash
 # Install dependencies
